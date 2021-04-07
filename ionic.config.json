@@ -1,0 +1,7 @@
+{
+  "name": "IonicTrackingApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
